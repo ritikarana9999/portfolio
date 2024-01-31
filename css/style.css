@@ -1240,7 +1240,7 @@ figure.dotted-bg {
     -webkit-transition: .3s all ease;
     -o-transition: .3s all ease;
     transition: .3s all ease;
-    position: relative;
+    position: sta;
     -webkit-transform: scale(1);
     -ms-transform: scale(1);
     transform: scale(1); }
