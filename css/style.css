@@ -1668,7 +1668,7 @@ figure.dotted-bg {
     font-family: 'icomoon'; }
 
 .ul-check.primary li:before {
-  color: #0389ff; }
+  color: #000000; }
 
 .ul-check.white li:before {
   color: #ffffff; }
@@ -1704,9 +1704,9 @@ figure.dotted-bg {
       width: 30px;
       height: 30px;
       position: relative;
-      background: #0389ff;
+      background: #ffffff;
       border-radius: 50%;
-      color: #ffffff; }
+      color: #544e4e; }
       .site-footer .social li a:before {
         display: none; }
       .site-footer .social li a > span {
@@ -1717,7 +1717,7 @@ figure.dotted-bg {
         -ms-transform: translate(-50%, -50%);
         transform: translate(-50%, -50%); }
       .site-footer .social li a:hover {
-        background: #36a1ff;
+        background: #000000;
         color: #ffffff; }
 
 
